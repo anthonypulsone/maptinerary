@@ -1,4 +1,24 @@
-# Maptinerary
+<div align="center">
+<h1> Maptinerary </h1>
+<img src="./demo.gif" alt="Maptinerary Demo" width="500" height="300">
+</div>
+
+
+
+- [](#)
+  - [About](#about)
+  - [Live Demo](#live-demo)
+  - [Current Features](#current-features)
+    - [v0.1 (latest release)](#v01-latest-release)
+  - [Future Features](#future-features)
+    - [v0.2 (in development)](#v02-in-development)
+    - [v0.3](#v03)
+    - [v0.4](#v04)
+  - [Tech](#tech)
+    - [Frontend](#frontend)
+    - [Backend](#backend)
+#
+
 ## About
 Maptinerary is a platform for planning, visualizing, and sharing your travels.
 
@@ -6,7 +26,7 @@ Maptinerary is a platform for planning, visualizing, and sharing your travels.
 [Check out the live demo (V0.1)](https://maptinerary.netlify.app)
 
 ## Current Features
-### V0.1 (latest release)
+### v0.1 (latest release)
 * Map Creator
   * Stops -
     * Users can create complex multi-day itinerary maps for trips with 50+ stops
@@ -36,7 +56,7 @@ Maptinerary is a platform for planning, visualizing, and sharing your travels.
   * Preferences (country, timezone, metric/imperial)
 
 ## Future Features
-### V0.2 (in development)
+### v0.2 (in development)
 * Stops
   * Redesign of searching for and adding locations to new stops (see Location Search)
   * Will allow users to add millions of places and destinations from Yelp by integrating the Yelp Fusion API
@@ -52,7 +72,7 @@ Maptinerary is a platform for planning, visualizing, and sharing your travels.
 * Other
   * Site dark theme (will automatically use system theme unless changed in user preferences)
 
-### V0.3
+### v0.3
 * Location Search 
   * Caching service for Yelp Fusion API
   * Airport search
@@ -62,7 +82,7 @@ Maptinerary is a platform for planning, visualizing, and sharing your travels.
   * Currently it is up to the user to decide which travel mode is used (Driving or Flight), the plan is to have routes change to a flight only when airports are consecutive stops in the itinerary
   * Add the option for users to remove routing from individual stops
 
-### V0.4
+### v0.4
 * Share itineraries & explore community made itineraries
 * Custom animations / follow along route animations
 
