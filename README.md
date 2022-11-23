@@ -2,27 +2,27 @@
 <h1> Maptinerary </h1>
 <img src="./demo.gif" alt="Maptinerary Demo" width="500" height="300">
 </div>
+<br>
 
+## Contents
+- [Contents](#contents)
+- [About](#about)
+- [Demo](#demo)
+- [Current Features](#current-features)
+  - [v0.1 (latest release)](#v01-latest-release)
+- [Future Features](#future-features)
+  - [v0.2 (in development)](#v02-in-development)
+  - [v0.3](#v03)
+  - [v0.4](#v04)
+- [Tech](#tech)
+  - [Frontend](#frontend)
+  - [Backend](#backend)
 
-
-- [](#)
-  - [About](#about)
-  - [Live Demo](#live-demo)
-  - [Current Features](#current-features)
-    - [v0.1 (latest release)](#v01-latest-release)
-  - [Future Features](#future-features)
-    - [v0.2 (in development)](#v02-in-development)
-    - [v0.3](#v03)
-    - [v0.4](#v04)
-  - [Tech](#tech)
-    - [Frontend](#frontend)
-    - [Backend](#backend)
-#
 
 ## About
 Maptinerary is a platform for planning, visualizing, and sharing your travels.
 
-## Live Demo
+## Demo
 [Check out the live demo (V0.1)](https://maptinerary.netlify.app)
 
 ## Current Features
