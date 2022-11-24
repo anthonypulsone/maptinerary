@@ -1,6 +1,6 @@
 <div align="center">
 <h1> Maptinerary </h1>
-<p>Maptinerary is a platform for planning, visualizing, and sharing your travels.</p>
+<p>A platform for planning, visualizing, and sharing your travels.</p>
 <br>
 <img src="./demo.gif" alt="Maptinerary Demo" width="500" height="300">
 </div>
