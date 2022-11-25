@@ -87,6 +87,7 @@ The backend is a serverless application built with the Serverless Framework and 
 
 <div align="center">
     <img src="https://img.shields.io/badge/Serverless-FD5750?style=for-the-badge&logo=serverless&logoColor=white" />
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
     <img src="https://img.shields.io/badge/AWS Lambda-FF9900?style=for-the-badge&logo=aws-lambda&logoColor=white" />
     <img src="https://img.shields.io/badge/Amazon DynamoDB-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white" />
 </div>
