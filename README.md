@@ -50,6 +50,7 @@
   * When adding a new location the results from the location search will be displayed on the map and automatically zoomed to
   * User can hover over results to highlight map pin for each result
   * Users will be able to to automatically pan between current itinerary and search results
+  * Service for caching Yelp Fusion API requests as well as protecting the API key
 * Map
   * Change map style between several options, such as a dark theme map, default map, and topographical terrain map
   * Ability to zoom to fit entire route and individual stops, similar to the zoom to fit day feature when clicking on route or day title
@@ -58,7 +59,6 @@
 
 ### v0.3
 * Location Search 
-  * Caching service for Yelp Fusion API
   * Airport search
     *  Users will be able to search thousands of commercial airports 
     *  The plan is to create an elasticsearch service that allows the user to search by geographic location, name, or IATA code
