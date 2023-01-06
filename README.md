@@ -7,7 +7,7 @@
 <br>
 
 ## Demo
-[Check out the live demo (V0.1)](https://maptinerary.app)
+[Check out the demo (V0.1)](https://maptinerary.app)
 
 ## Current Features
 ### v0.1 (latest release)
