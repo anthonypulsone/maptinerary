@@ -74,7 +74,7 @@
 ## Tech
 
 ### Frontend
-The frontend application is a React app that uses Redux Toolkit for state management. Material UI is the UI framework and React Beautiful Drag and Drop is utilized for the drag and drop functionality on the itinerary.
+The frontend application is a React app that uses Redux Toolkit for state management. Material UI is the UI framework and React Beautiful Drag and Drop is utilized for the drag and drop functionality on the itinerary. Maptinerary uses mapping libraries such as MapLibre and react-map-gl for interactive vector maps.
 <div align="center">
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
